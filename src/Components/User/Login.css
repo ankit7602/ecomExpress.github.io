@@ -1,0 +1,28 @@
+.carrdddd{
+    height: auto;
+    margin-left: 13%;
+    margin-top: 3.5%;
+    margin-right: 13%;
+    width: auto;
+    box-shadow: 12px 12px 22px grey;
+    border-radius: 15px !important;
+}
+
+.img-fluid{
+    border-radius: 10px;
+}
+
+.form-check{
+    text-align: left;
+}
+
+.form-text{
+    text-align: left;
+}
+
+.my_divform{
+    margin-top:2rem; 
+    margin-left:4rem; 
+    margin-right:4rem;
+}
+

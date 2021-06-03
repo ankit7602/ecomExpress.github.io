@@ -1,0 +1,37 @@
+
+ul{
+    list-style-type: none;
+   
+}
+li{
+    list-style-type: none;
+}
+.details {
+    color: black;
+    text-align: left;
+    margin-left: 1.8rem;
+    font-size: large;
+}
+
+.details span {
+    font-size: large;
+}
+
+.inpuutt{
+    border: 1px solid #ccc;
+    font-weight: bolder;
+    height: 35px;
+    width: 3rem;
+    text-align: center;
+}
+
+.labbell{
+    margin-right: 1rem;
+    text-align: start;
+}
+.danger{
+    color: red;
+}
+.success{
+    color: rgb(22, 146, 22);
+}
